@@ -1,0 +1,4 @@
+Red Color - hsla(0, 100%, 49%, 0.6)
+            hsl(0, 100%, 49%)
+patronas green Color - hsla(157, 75%, 38%, 1);
+                       hsl(157, 75%, 38%);
